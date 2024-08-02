@@ -1,0 +1,5 @@
+# Loại bỏ thư mục .vscode
+.vscode/
+
+# Loại bỏ tất cả các file .exe
+*.exe
