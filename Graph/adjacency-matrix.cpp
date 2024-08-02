@@ -1,3 +1,5 @@
+// convert an undirected graph from an edge list to an adjacency matrix
+
 #include <iostream>
 #include <vector>
 using namespace std;
